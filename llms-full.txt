@@ -1,0 +1,1731 @@
+# section1192.org -- Full Content
+
+This file contains the full text content of all pages on section1192.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Subchapter V Cramdown -- Section 1191(b) Nonconsensual Confirmation
+Source: https://section1192.org/cramdown.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Subchapter V Cramdown -- Section 1191(b)
+
+Nonconsensual plan confirmation when impaired classes reject. The projected disposable income test and fair and equitable standard.
+
+When Cramdown Is Needed
+
+If any impaired class of claims fails to accept the plan, consensual confirmation under Section 1191(a) is unavailable. The debtor must satisfy the more demanding requirements of Section 1191(b) to confirm the plan over objection.
+
+Cramdown is the backstop that ensures a viable business can reorganize even when some creditors object. Without it, a single hostile creditor could block a plan that benefits everyone else.
+
+The Projected Disposable Income Requirement
+
+Under Section 1191(c)(2), the plan must provide that all of the debtor's projected disposable income received during the applicable commitment period (3-5 years) will be applied to make payments under the plan.
+
+"Projected disposable income" is defined as income not reasonably necessary for:
+
+Maintenance or support of the debtor or a dependent
+
+Payment of domestic support obligations
+
+Expenditures necessary for continuation, preservation, or operation of the business
+
+No means test: Unlike Chapter 13, Subchapter V does not use the mechanical IRS expense standards. Courts examine actual income projections and actual reasonable expenses. This gives courts flexibility to account for the realities of running a business.
+
+The Fair and Equitable Standard
+
+Secured Claims
+
+For each dissenting class of secured claims, the plan must provide that:
+
+The creditor retains its lien
+
+The debtor makes deferred cash payments totaling at least the present value of the allowed secured claim
+
+Unsecured Claims
+
+The absolute priority rule does not apply. The plan need only commit all projected disposable income. The debtor retains equity interest in the business.
+
+No Unfair Discrimination
+
+The plan must not discriminate unfairly among classes of similar priority. Some differential treatment is permitted if there is a reasonable basis for it.
+
+Cramdown vs. Chapter 13 Comparison
+
+FeatureChapter 13Subchapter V Cramdown
+
+Income testMeans test formulaActual projected income
+
+Expense standardsIRS allowancesReasonable actual expenses
+
+Commitment period3 or 5 years (based on median)3-5 years (flexible)
+
+Debt limit~$2.75M (combined)$7.5M
+
+Business expensesLimited recognitionFull recognition
+
+Absolute priorityN/ADoes not apply
+
+See also: Calculating disposable income | Discharge timing
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org/cramdown.html -- Section 1191(b) overview
+
+meanstest.org -- Means test comparison
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Discharge Timing -- When Does the Discharge Occur?
+Source: https://section1192.org/discharge-timing.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Subchapter V Discharge Timing
+
+When the discharge occurs depends on whether the plan was confirmed consensually or through cramdown.
+
+Consensual Discharge -- Upon Confirmation
+
+When all impaired classes accept the plan, the debtor receives a discharge upon confirmation under Section 1191(a). This is the most favorable outcome:
+
+Timing: Immediate upon the confirmation order
+
+Scope: Broad -- standard Chapter 11 discharge scope
+
+Section 523(a) exceptions: Do not apply (for entities; limited application for individuals)
+
+This is the gold standard. Consensual confirmation gives the debtor an immediate, broad discharge -- the best possible outcome in Subchapter V.
+
+Cramdown Discharge -- After Plan Completion
+
+When confirmation is achieved through cramdown under Section 1191(b), the discharge is delayed and narrowed:
+
+Timing: After the debtor completes all plan payments (3-5 years)
+
+Scope: Narrower -- Section 523(a) exceptions apply
+
+Nondischargeable debts: Fraud, willful injury, domestic support, taxes, student loans, DUI injuries
+
+For individual debtors: The cramdown discharge is significantly less valuable because creditors can pursue discharge exception litigation for any of the Section 523(a) categories. This risk does not exist with consensual confirmation.
+
+Completing Plan Payments
+
+For cramdown cases, the debtor must satisfy all payment obligations under the plan before the discharge enters. The Subchapter V trustee monitors compliance and files a report when payments are complete.
+
+Requirements before discharge:
+
+Complete all plan payments
+
+Certify that all domestic support obligations are current
+
+File all required operating reports
+
+Certify completion of debtor education (for individuals)
+
+The Hardship Discharge Question
+
+Chapter 13 provides a "hardship discharge" under Section 1328(b) for debtors who cannot complete plan payments due to circumstances beyond their control. Whether this provision applies in Subchapter V is an open legal question.
+
+Arguments in favor: Subchapter V incorporates many Chapter 13 concepts. The hardship discharge fills a gap that Congress may not have intended to leave.
+
+Arguments against: The statutory text of Section 1192 does not reference Section 1328(b). Subchapter V has its own discharge provisions that do not include a hardship option.
+
+Unsettled law: If you are a Subchapter V debtor struggling to complete plan payments, consult an attorney familiar with the current state of the law in your circuit.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org/discharge.html -- Discharge overview
+
+bankruptcyhardship.org -- Hardship discharge
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Disposable Income in Subchapter V -- Section 1191(c)(2)
+Source: https://section1192.org/disposable-income.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Projected Disposable Income -- Section 1191(c)(2)
+
+How to calculate projected disposable income for Subchapter V cramdown. A critical requirement for nonconsensual confirmation.
+
+The Calculation
+
+Projected disposable income under Section 1191(c)(2) is calculated as:
+
+Projected Gross Income
+
+minus: Amounts reasonably necessary for maintenance or support
+
+minus: Domestic support obligations
+
+minus: Business operating expenses
+
+= Projected Disposable Income
+
+This amount must be committed to plan payments for the 3-to-5-year plan period.
+
+Business Expenses
+
+One of the key advantages of Subchapter V is the full recognition of business expenses. Deductible expenses include:
+
+Rent and occupancy costs
+
+Employee wages and benefits
+
+Inventory and supplies
+
+Insurance (business and health)
+
+Vehicle and equipment costs
+
+Professional fees (accounting, legal, industry-specific)
+
+Reasonable owner compensation -- the debtor can pay themselves a market-rate salary
+
+Key word: reasonable. Courts will scrutinize expenses that appear inflated to reduce disposable income. Owner compensation must be comparable to market rates for similar work.
+
+Personal Expenses
+
+For individual debtors, personal expenses that are "reasonably necessary for maintenance or support" are also deductible. These include:
+
+Housing costs (rent or mortgage)
+
+Food and clothing
+
+Transportation
+
+Health care
+
+Insurance
+
+Child care
+
+Education expenses for dependents
+
+Unlike Chapter 13, where many of these expenses are capped by IRS standard allowances, Subchapter V uses actual reasonable amounts. A debtor in an expensive housing market can claim actual housing costs rather than being limited to a national standard.
+
+Projecting Future Income
+
+The income figure used is projected income -- not historical income. Courts look forward, considering:
+
+Historical business performance (as a baseline)
+
+Current trends and contracts
+
+Seasonal variations
+
+Planned changes to the business (expansion, contraction, new services)
+
+Economic conditions affecting the industry
+
+The debtor bears the burden of providing credible projections. Unrealistically low income projections will be rejected by the court. Conversely, overly optimistic projections may set the debtor up for failure to make plan payments.
+
+See also: Cramdown requirements | Means test comparison
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org -- Plan confirmation
+
+meanstest.org -- Means test for Chapter 13
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Eligibility -- Debt Limit and Requirements
+Source: https://section1192.org/eligibility.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Subchapter V Eligibility
+
+The $7.5 million debt limit, the 50% business activity threshold, and who is excluded from Subchapter V.
+
+The Debt Limit
+
+To qualify as a "small business debtor" under Section 101(51D), the debtor must have aggregate noncontingent liquidated debts not exceeding $7,500,000.
+
+Key definitions:
+
+Noncontingent: The debt is not dependent on a future event. A guarantee that has not been called is contingent. A loan that is due and owing is noncontingent.
+
+Liquidated: The amount can be readily determined. A contract debt for $50,000 is liquidated. A pending personal injury lawsuit with no set amount is unliquidated.
+
+Aggregate: All debts are combined -- secured and unsecured, priority and general.
+
+History: The original SBRA set the limit at $2,725,625. The CARES Act (2020) temporarily raised it to $7,500,000 in response to COVID-19. The Bankruptcy Threshold Adjustment and Technical Corrections Act (2022) made the $7.5 million limit permanent.
+
+The 50% Business Activity Requirement
+
+At least 50% of the debtor's debts (excluding debts owed to affiliates or insiders) must arise from the debtor's commercial or business activities. This prevents purely consumer debtors from using Subchapter V.
+
+The debtor must also be engaged in commercial or business activities at the time of filing (or within a recent period). A debtor who shut down the business two years ago and is simply trying to wind down debts may not qualify.
+
+Who Is Excluded
+
+Certain entities cannot use Subchapter V even if they meet the debt limits:
+
+Single asset real estate entities -- A debtor whose primary asset is a single property or project (subject to definition in Section 101(51B))
+
+Publicly traded companies -- Companies with publicly traded equity securities
+
+Debtors who are affiliates of issuers of publicly traded securities
+
+Gray area: Courts continue to litigate the boundaries of "commercial or business activities" and the single-asset-real-estate exclusion. Consult an attorney if your eligibility is unclear.
+
+Individuals in Subchapter V
+
+Individuals can file Subchapter V. This is particularly useful for:
+
+Sole proprietors whose business debts are personal debts
+
+Independent contractors with significant business-related obligations
+
+Professionals (doctors, lawyers, consultants) whose debts are primarily from practice operations
+
+For individual debtors, the cramdown discharge under Section 1192 is subject to Section 523(a) exceptions -- the same nondischargeable debt categories that apply in Chapter 7 and Chapter 13. This differs from corporate debtors, whose discharge is broader.
+
+Check eligibility: 1328f.com discharge screener | Related: meanstest.org
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org -- Plan confirmation
+
+chapter13plan.org -- Chapter 13 alternative
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Section 1192 Subchapter V Discharge -- Guide [2026]
+Source: https://section1192.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Section 1192 Subchapter V Discharge
+
+Nonconsensual plan confirmation. The projected disposable income test and how it differs from Chapter 13.
+
+What Is Section 1192?
+
+Section 1192 defines the cramdown requirements for Subchapter V. When a plan cannot be confirmed consensually because impaired classes reject it, the court may confirm under 1191(b) if Section 1192 requirements are met.
+
+The central requirement: commit all projected disposable income for 3-5 years.
+
+Projected Disposable Income
+
+Income not reasonably necessary for:
+
+Maintenance or support of debtor/dependents
+
+Continuation, preservation, or operation of the business
+
+Key difference from Chapter 13: Uses actual projected income and reasonable expenses -- not the mechanical IRS standards of the bankruptcy means test guide.
+
+Fair and Equitable Requirement
+
+The plan must not discriminate unfairly and must meet the disposable income test.
+
+No absolute priority rule: The debtor may retain equity even if unsecured creditors are not paid in full.
+
+Discharge Comparison
+
+PathWhenScope
+
+1191(a) ConsensualUpon confirmationBroad (standard Ch. 11)
+
+1191(b)/1192 CramdownAfter all paymentsNarrower -- 523(a) exceptions apply
+
+Important: Under cramdown, debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org -- Consensual confirmation
+
+Section 523(a) nondischargeable debts -- Exceptions to discharge
+
+1328f.org -- Bankruptcy research platform
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Can I Keep My Car?
+
+How each chapter treats vehicle loans differently
+
+keepmycarinbankruptcy.com →
+
+Can I Keep My House?
+
+Chapter 13 can cure mortgage arrears
+
+keepmyhouseinbankruptcy.com →
+
+How Much Does It Cost?
+
+Filing fees, attorney costs, and payment plans
+
+howmuchdoesbankruptcycost.com →
+
+Filed Before? Your Path
+
+Step-by-step guide for repeat filers
+
+filebankruptcyagain.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+canifileagain.org
+garnishedwages.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Success Rates -- Federal Court Statistics
+Source: https://section1192.org/success-rates.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Subchapter V Success Rates
+
+Federal court data shows significantly higher success rates for Subchapter V compared to traditional Chapter 11 for small businesses.
+
+The Data
+
+Federal court data from the Administrative Office of the U.S. Courts and academic research show that Subchapter V is achieving its goals:
+
+Plan confirmation rate: Approximately 50-60% of Subchapter V cases achieve plan confirmation, compared to roughly 25% for small business cases in traditional Chapter 11
+
+Time to confirmation: Median time from filing to confirmation is approximately 6-9 months in Subchapter V, compared to 12-24 months in traditional Chapter 11
+
+Administrative costs: Professional fees are roughly 60-70% lower than in comparable traditional Chapter 11 cases
+
+The bottom line: Small businesses that would have failed in traditional Chapter 11 -- not because the business was unviable, but because the process was too expensive and too slow -- are successfully reorganizing under Subchapter V.
+
+Why Traditional Chapter 11 Failed Small Businesses
+
+Before the SBRA, Chapter 11 had a dismal track record for small businesses:
+
+75% of small business Chapter 11 cases were dismissed or converted without a confirmed plan
+
+Professional fees consumed 20-50% of the debtor's available resources
+
+The absolute priority rule forced owners to either pay unsecured creditors in full or lose their businesses
+
+The disclosure statement process added months and tens of thousands of dollars to every case
+
+Congress created Subchapter V specifically to address these failures. The early data confirms that the streamlined process is working.
+
+Factors Contributing to Success
+
+Lower costs -- No disclosure statement, no creditor committee, no quarterly fees
+
+Faster timeline -- 90-day plan deadline focuses the process
+
+No absolute priority rule -- Owners retain equity, preserving the incentive to reorganize
+
+Trustee facilitation -- A neutral professional helps negotiate consensus
+
+Higher debt limit -- $7.5 million covers the vast majority of small businesses
+
+Research and Citations
+
+Key studies and data sources on Subchapter V outcomes:
+
+Administrative Office of the U.S. Courts -- Federal Judicial Caseload Statistics (published annually)
+
+Lawless, Robert M. et al. -- Empirical analysis of SBRA outcomes (academic research ongoing)
+
+American Bankruptcy Institute -- "The Small Business Reorganization Act: A Statistical Review"
+
+National Conference of Bankruptcy Judges -- Annual survey data on Subchapter V
+
+The Open Bankruptcy Project maintains research data covering 4.9 million federal bankruptcy cases. Explore: 1328f.org research platform
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org -- Plan confirmation
+
+1328f.org -- Bankruptcy research platform
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V Trustee -- Role and Responsibilities
+Source: https://section1192.org/trustee-role.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+The Subchapter V Trustee
+
+Unlike Chapter 7 or Chapter 13 trustees, the Subchapter V trustee facilitates reorganization rather than liquidating or distributing.
+
+A Different Kind of Trustee
+
+The Subchapter V trustee is fundamentally different from trustees in other bankruptcy chapters:
+
+Chapter 7 trustee: Liquidates the debtor's non-exempt assets and distributes proceeds to creditors
+
+Chapter 13 trustee: Collects plan payments from the debtor and distributes them to creditors
+
+Subchapter V trustee: Facilitates development of a consensual plan between the debtor and creditors
+
+The Subchapter V trustee does not take possession of assets, does not operate the business, and does not liquidate anything. The trustee's primary role is to help the debtor and creditors reach agreement.
+
+Specific Responsibilities
+
+Facilitate plan negotiations -- Work with the debtor and creditors to develop a consensual plan
+
+Appear at the status conference -- The court holds an early status conference (within 60 days of filing), and the trustee participates
+
+Review the debtor's business operations -- Ensure the business is being operated properly during the case
+
+Monitor post-confirmation payments -- In cramdown cases, the trustee distributes payments and monitors compliance
+
+Report to the court -- File reports on the debtor's progress and any concerns
+
+Section 1183(b)(1): The trustee shall "facilitate the development of a consensual plan of reorganization."
+
+Debtor Remains in Possession
+
+The debtor continues to operate the business as a debtor in possession. The trustee does not replace management. This means:
+
+The debtor makes business decisions
+
+The debtor pays employees, vendors, and operating expenses
+
+The debtor files operating reports with the court
+
+The debtor proposes the plan (no one else can)
+
+Exception: The court can remove the debtor from possession "for cause" under Section 1185 -- such as fraud, dishonesty, incompetence, or gross mismanagement. If the debtor is removed, the trustee takes over business operations. This is rare.
+
+Trustee Compensation
+
+The Subchapter V trustee is compensated from the estate. In consensual cases, the trustee's service typically ends at confirmation, limiting costs. In cramdown cases, the trustee may serve for the full plan period (3-5 years), collecting a percentage of distributions.
+
+The trustee's fees are subject to court approval and must be reasonable. This cost is one of the trade-offs of Subchapter V -- the debtor gains a facilitator but must pay for that service.
+
+Related: Subchapter V vs. traditional Chapter 11 | Cramdown requirements
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org -- Plan confirmation
+
+meanstest.org -- Means test calculator
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Subchapter V vs Traditional Chapter 11 -- Comparison
+Source: https://section1192.org/vs-traditional-11.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+vs Traditional 11
+Eligibility
+Trustee Role
+Cramdown
+Disposable Income
+Discharge
+Success Rates
+
+Subchapter V vs. Traditional Chapter 11
+
+A side-by-side comparison of the streamlined Subchapter V process and traditional Chapter 11 reorganization.
+
+Side-by-Side Comparison
+
+FeatureTraditional Ch. 11Subchapter V
+
+Disclosure statementRequired (costly, time-consuming)Not required
+
+Absolute priority ruleApplies -- debtor may lose equityDoes not apply -- debtor retains equity
+
+Creditor committeePresumptively appointedNot appointed (unless court orders)
+
+Plan deadline120-day exclusivity, then open90 days after order for relief
+
+Who can file a planDebtor, then creditorsOnly the debtor
+
+UST quarterly feesRequired (can be substantial)Eliminated
+
+TrusteeNone (debtor in possession)Subchapter V trustee (facilitator)
+
+Typical cost$50,000 -- $250,000+$15,000 -- $50,000
+
+Typical duration12 -- 36 months3 -- 6 months to confirmation
+
+Discharge (consensual)Upon confirmationUpon confirmation
+
+Discharge (cramdown)Upon confirmationAfter plan completion (3-5 years)
+
+Cost Savings
+
+The most significant advantage of Subchapter V is cost. Traditional Chapter 11 is notoriously expensive for small businesses. The disclosure statement alone -- which requires court approval before creditors can vote -- typically costs $10,000 to $30,000 in legal fees and adds 2-4 months to the process.
+
+By eliminating the disclosure statement, the creditor committee, and quarterly UST fees, Subchapter V dramatically reduces the overhead that historically made Chapter 11 impractical for businesses with less than $1 million in debt.
+
+Before the SBRA (2019): Most small businesses that filed Chapter 11 failed -- not because the business was unviable, but because the costs of the reorganization process consumed the resources needed for recovery. Subchapter V was Congress's response to this problem.
+
+Speed
+
+Subchapter V imposes a 90-day plan deadline. The debtor must file a plan within 90 days of the order for relief (extendable for cause). In traditional Chapter 11, the debtor has a 120-day exclusivity period followed by open filing -- a process that routinely takes 12 to 36 months.
+
+The compressed timeline benefits everyone: the debtor resolves uncertainty faster, creditors know the outcome sooner, and the court can close the case in months rather than years.
+
+When Traditional Chapter 11 Is Better
+
+Subchapter V is not always the right choice. Traditional Chapter 11 may be preferable when:
+
+Debts exceed $7.5 million -- the debtor does not qualify for Subchapter V
+
+Complex multi-party disputes require a creditor committee to negotiate
+
+The debtor wants to sell substantially all assets under Section 363
+
+Cramdown discharge scope matters -- in traditional Ch. 11, the cramdown discharge is broader (Section 523(a) exceptions do not apply)
+
+For most small businesses, Subchapter V is the better option. The streamlined process, lower costs, and elimination of the absolute priority rule make reorganization feasible for businesses that would have been forced to liquidate under the old system.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+section1191.org -- Plan confirmation
+
+meanstest.org -- Means test calculator
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
+
+11 U.S.C. Section 1191
+Cornell LII -- Sub V confirmation
+
+11 U.S.C. Section 1192
+Cornell LII -- Sub V discharge
+
+SBA Disaster Loan Info
+SBA.gov
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ Sub V trustees
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Subchapter V Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Section 1191 Discharge
+
+Free bankruptcy information guide
+
+section1191.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
