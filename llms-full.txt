@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Subchapter V Cramdown -- Section 1191(b) Nonconsensual Confirmation
+## Subchapter V Cramdown - Section 1191(b) Nonconsensual Confirmation
 Source: https://section1192.org/cramdown.html
 
 Skip to main content
@@ -23,9 +23,11 @@ Disposable Income
 Discharge
 Success Rates
 
-Subchapter V Cramdown -- Section 1191(b)
+Subchapter V Cramdown - Section 1191(b)
 
 Nonconsensual plan confirmation when impaired classes reject. The projected disposable income test and fair and equitable standard.
+
+Home›Section 1192 Cramdown›Subchapter V Cramdown - Section 1191(b)
 
 When Cramdown Is Needed
 
@@ -91,9 +93,9 @@ Subscribe
 
 Related Resources
 
-section1191.org/cramdown.html -- Section 1191(b) overview
+section1191.org/cramdown.html - Section 1191(b) overview
 
-meanstest.org -- Means test comparison
+meanstest.org - Means test comparison
 
 Related Guides
 
@@ -110,10 +112,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -210,7 +212,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Discharge Timing -- When Does the Discharge Occur?
+## Subchapter V Discharge Timing - When Does the Discharge Occur?
 Source: https://section1192.org/discharge-timing.html
 
 Skip to main content
@@ -231,25 +233,27 @@ Subchapter V Discharge Timing
 
 When the discharge occurs depends on whether the plan was confirmed consensually or through cramdown.
 
-Consensual Discharge -- Upon Confirmation
+Home›Section 1192 Cramdown›Subchapter V Discharge Timing
+
+Consensual Discharge - Upon Confirmation
 
 When all impaired classes accept the plan, the debtor receives a discharge upon confirmation under Section 1191(a). This is the most favorable outcome:
 
 Timing: Immediate upon the confirmation order
 
-Scope: Broad -- standard Chapter 11 discharge scope
+Scope: Broad - standard Chapter 11 discharge scope
 
 Section 523(a) exceptions: Do not apply (for entities; limited application for individuals)
 
-This is the gold standard. Consensual confirmation gives the debtor an immediate, broad discharge -- the best possible outcome in Subchapter V.
+This is the gold standard. Consensual confirmation gives the debtor an immediate, broad discharge - the best possible outcome in Subchapter V.
 
-Cramdown Discharge -- After Plan Completion
+Cramdown Discharge - After Plan Completion
 
 When confirmation is achieved through cramdown under Section 1191(b), the discharge is delayed and narrowed:
 
 Timing: After the debtor completes all plan payments (3-5 years)
 
-Scope: Narrower -- Section 523(a) exceptions apply
+Scope: Narrower - Section 523(a) exceptions apply
 
 Nondischargeable debts: Fraud, willful injury, domestic support, taxes, student loans, DUI injuries
 
@@ -287,9 +291,9 @@ Subscribe
 
 Related Resources
 
-section1191.org/discharge.html -- Discharge overview
+section1191.org/discharge.html - Discharge overview
 
-bankruptcyhardship.org -- Hardship discharge
+bankruptcyhardship.org - Hardship discharge
 
 Related Guides
 
@@ -306,10 +310,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -406,7 +410,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Disposable Income in Subchapter V -- Section 1191(c)(2)
+## Disposable Income in Subchapter V - Section 1191(c)(2)
 Source: https://section1192.org/disposable-income.html
 
 Skip to main content
@@ -423,9 +427,11 @@ Disposable Income
 Discharge
 Success Rates
 
-Projected Disposable Income -- Section 1191(c)(2)
+Projected Disposable Income - Section 1191(c)(2)
 
 How to calculate projected disposable income for Subchapter V cramdown. A critical requirement for nonconsensual confirmation.
+
+Home›Section 1192 Cramdown›Projected Disposable Income - Section 1191(c)(2)
 
 The Calculation
 
@@ -459,7 +465,7 @@ Vehicle and equipment costs
 
 Professional fees (accounting, legal, industry-specific)
 
-Reasonable owner compensation -- the debtor can pay themselves a market-rate salary
+Reasonable owner compensation - the debtor can pay themselves a market-rate salary
 
 Key word: reasonable. Courts will scrutinize expenses that appear inflated to reduce disposable income. Owner compensation must be comparable to market rates for similar work.
 
@@ -485,7 +491,7 @@ Unlike Chapter 13, where many of these expenses are capped by IRS standard allow
 
 Projecting Future Income
 
-The income figure used is projected income -- not historical income. Courts look forward, considering:
+The income figure used is projected income - not historical income. Courts look forward, considering:
 
 Historical business performance (as a baseline)
 
@@ -509,9 +515,9 @@ Subscribe
 
 Related Resources
 
-section1191.org -- Plan confirmation
+section1191.org - Plan confirmation
 
-meanstest.org -- Means test for Chapter 13
+meanstest.org - Means test for Chapter 13
 
 Related Guides
 
@@ -528,10 +534,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -628,7 +634,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Eligibility -- Debt Limit and Requirements
+## Subchapter V Eligibility - Debt Limit and Requirements
 Source: https://section1192.org/eligibility.html
 
 Skip to main content
@@ -649,6 +655,8 @@ Subchapter V Eligibility
 
 The $7.5 million debt limit, the 50% business activity threshold, and who is excluded from Subchapter V.
 
+Home›Section 1192 Cramdown›Subchapter V Eligibility
+
 The Debt Limit
 
 To qualify as a "small business debtor" under Section 101(51D), the debtor must have aggregate noncontingent liquidated debts not exceeding $7,500,000.
@@ -659,7 +667,7 @@ Noncontingent: The debt is not dependent on a future event. A guarantee that has
 
 Liquidated: The amount can be readily determined. A contract debt for $50,000 is liquidated. A pending personal injury lawsuit with no set amount is unliquidated.
 
-Aggregate: All debts are combined -- secured and unsecured, priority and general.
+Aggregate: All debts are combined - secured and unsecured, priority and general.
 
 History: The original SBRA set the limit at $2,725,625. The CARES Act (2020) temporarily raised it to $7,500,000 in response to COVID-19. The Bankruptcy Threshold Adjustment and Technical Corrections Act (2022) made the $7.5 million limit permanent.
 
@@ -673,9 +681,9 @@ Who Is Excluded
 
 Certain entities cannot use Subchapter V even if they meet the debt limits:
 
-Single asset real estate entities -- A debtor whose primary asset is a single property or project (subject to definition in Section 101(51B))
+Single asset real estate entities - A debtor whose primary asset is a single property or project (subject to definition in Section 101(51B))
 
-Publicly traded companies -- Companies with publicly traded equity securities
+Publicly traded companies - Companies with publicly traded equity securities
 
 Debtors who are affiliates of issuers of publicly traded securities
 
@@ -691,7 +699,7 @@ Independent contractors with significant business-related obligations
 
 Professionals (doctors, lawyers, consultants) whose debts are primarily from practice operations
 
-For individual debtors, the cramdown discharge under Section 1192 is subject to Section 523(a) exceptions -- the same nondischargeable debt categories that apply in Chapter 7 and Chapter 13. This differs from corporate debtors, whose discharge is broader.
+For individual debtors, the cramdown discharge under Section 1192 is subject to Section 523(a) exceptions - the same nondischargeable debt categories that apply in Chapter 7 and Chapter 13. This differs from corporate debtors, whose discharge is broader.
 
 Check eligibility: 1328f.com discharge screener | Related: meanstest.org
 
@@ -703,9 +711,9 @@ Subscribe
 
 Related Resources
 
-section1191.org -- Plan confirmation
+section1191.org - Plan confirmation
 
-chapter13plan.org -- Chapter 13 alternative
+chapter13plan.org - Chapter 13 alternative
 
 Related Guides
 
@@ -722,10 +730,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -822,7 +830,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Section 1192 Subchapter V Discharge -- Guide [2026]
+## Section 1192 Subchapter V Discharge - Guide [2026]
 Source: https://section1192.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -841,7 +849,7 @@ Disposable Income
 Discharge
 Success Rates
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Section 1192 Subchapter V Discharge
 
@@ -861,7 +869,7 @@ Maintenance or support of debtor/dependents
 
 Continuation, preservation, or operation of the business
 
-Key difference from Chapter 13: Uses actual projected income and reasonable expenses -- not the mechanical IRS standards of the bankruptcy means test guide.
+Key difference from Chapter 13: Uses actual projected income and reasonable expenses - not the mechanical IRS standards of the bankruptcy means test guide.
 
 Fair and Equitable Requirement
 
@@ -875,7 +883,7 @@ PathWhenScope
 
 1191(a) ConsensualUpon confirmationBroad (standard Ch. 11)
 
-1191(b)/1192 CramdownAfter all paymentsNarrower -- 523(a) exceptions apply
+1191(b)/1192 CramdownAfter all paymentsNarrower - 523(a) exceptions apply
 
 Important: Under cramdown, debts for fraud, willful injury, domestic support, taxes, and student loans survive discharge.
 
@@ -887,11 +895,11 @@ Subscribe
 
 Related Resources
 
-section1191.org -- Consensual confirmation
+section1191.org - Consensual confirmation
 
-Section 523(a) nondischargeable debts -- Exceptions to discharge
+Section 523(a) nondischargeable debts - Exceptions to discharge
 
-1328f.org -- Bankruptcy research platform
+1328f.org - Bankruptcy research platform
 
 Related Guides
 
@@ -908,10 +916,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -959,7 +967,7 @@ automaticstay.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -1109,10 +1117,13 @@ garnishedwages.org
 howtofilebankruptcy.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1134,7 +1145,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Success Rates -- Federal Court Statistics
+## Subchapter V Success Rates - Federal Court Statistics
 Source: https://section1192.org/success-rates.html
 
 Skip to main content
@@ -1155,6 +1166,8 @@ Subchapter V Success Rates
 
 Federal court data shows significantly higher success rates for Subchapter V compared to traditional Chapter 11 for small businesses.
 
+Home›Section 1192 Cramdown›Subchapter V Success Rates
+
 The Data
 
 Federal court data from the Administrative Office of the U.S. Courts and academic research show that Subchapter V is achieving its goals:
@@ -1165,7 +1178,7 @@ Time to confirmation: Median time from filing to confirmation is approximately 6
 
 Administrative costs: Professional fees are roughly 60-70% lower than in comparable traditional Chapter 11 cases
 
-The bottom line: Small businesses that would have failed in traditional Chapter 11 -- not because the business was unviable, but because the process was too expensive and too slow -- are successfully reorganizing under Subchapter V.
+The bottom line: Small businesses that would have failed in traditional Chapter 11 - not because the business was unviable, but because the process was too expensive and too slow - are successfully reorganizing under Subchapter V.
 
 Why Traditional Chapter 11 Failed Small Businesses
 
@@ -1183,27 +1196,27 @@ Congress created Subchapter V specifically to address these failures. The early 
 
 Factors Contributing to Success
 
-Lower costs -- No disclosure statement, no creditor committee, no quarterly fees
+Lower costs - No disclosure statement, no creditor committee, no quarterly fees
 
-Faster timeline -- 90-day plan deadline focuses the process
+Faster timeline - 90-day plan deadline focuses the process
 
-No absolute priority rule -- Owners retain equity, preserving the incentive to reorganize
+No absolute priority rule - Owners retain equity, preserving the incentive to reorganize
 
-Trustee facilitation -- A neutral professional helps negotiate consensus
+Trustee facilitation - A neutral professional helps negotiate consensus
 
-Higher debt limit -- $7.5 million covers the vast majority of small businesses
+Higher debt limit - $7.5 million covers the vast majority of small businesses
 
 Research and Citations
 
 Key studies and data sources on Subchapter V outcomes:
 
-Administrative Office of the U.S. Courts -- Federal Judicial Caseload Statistics (published annually)
+Administrative Office of the U.S. Courts - Federal Judicial Caseload Statistics (published annually)
 
-Lawless, Robert M. et al. -- Empirical analysis of SBRA outcomes (academic research ongoing)
+Lawless, Robert M. et al. - Empirical analysis of SBRA outcomes (academic research ongoing)
 
-American Bankruptcy Institute -- "The Small Business Reorganization Act: A Statistical Review"
+American Bankruptcy Institute - "The Small Business Reorganization Act: A Statistical Review"
 
-National Conference of Bankruptcy Judges -- Annual survey data on Subchapter V
+National Conference of Bankruptcy Judges - Annual survey data on Subchapter V
 
 The Open Bankruptcy Project maintains research data covering 4.9 million federal bankruptcy cases. Explore: 1328f.org research platform
 
@@ -1215,9 +1228,9 @@ Subscribe
 
 Related Resources
 
-section1191.org -- Plan confirmation
+section1191.org - Plan confirmation
 
-1328f.org -- Bankruptcy research platform
+1328f.org - Bankruptcy research platform
 
 Related Guides
 
@@ -1234,10 +1247,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1334,7 +1347,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V Trustee -- Role and Responsibilities
+## Subchapter V Trustee - Role and Responsibilities
 Source: https://section1192.org/trustee-role.html
 
 Skip to main content
@@ -1355,6 +1368,8 @@ The Subchapter V Trustee
 
 Unlike Chapter 7 or Chapter 13 trustees, the Subchapter V trustee facilitates reorganization rather than liquidating or distributing.
 
+Home›Section 1192 Cramdown›The Subchapter V Trustee
+
 A Different Kind of Trustee
 
 The Subchapter V trustee is fundamentally different from trustees in other bankruptcy chapters:
@@ -1369,15 +1384,15 @@ The Subchapter V trustee does not take possession of assets, does not operate th
 
 Specific Responsibilities
 
-Facilitate plan negotiations -- Work with the debtor and creditors to develop a consensual plan
+Facilitate plan negotiations - Work with the debtor and creditors to develop a consensual plan
 
-Appear at the status conference -- The court holds an early status conference (within 60 days of filing), and the trustee participates
+Appear at the status conference - The court holds an early status conference (within 60 days of filing), and the trustee participates
 
-Review the debtor's business operations -- Ensure the business is being operated properly during the case
+Review the debtor's business operations - Ensure the business is being operated properly during the case
 
-Monitor post-confirmation payments -- In cramdown cases, the trustee distributes payments and monitors compliance
+Monitor post-confirmation payments - In cramdown cases, the trustee distributes payments and monitors compliance
 
-Report to the court -- File reports on the debtor's progress and any concerns
+Report to the court - File reports on the debtor's progress and any concerns
 
 Section 1183(b)(1): The trustee shall "facilitate the development of a consensual plan of reorganization."
 
@@ -1393,13 +1408,13 @@ The debtor files operating reports with the court
 
 The debtor proposes the plan (no one else can)
 
-Exception: The court can remove the debtor from possession "for cause" under Section 1185 -- such as fraud, dishonesty, incompetence, or gross mismanagement. If the debtor is removed, the trustee takes over business operations. This is rare.
+Exception: The court can remove the debtor from possession "for cause" under Section 1185 - such as fraud, dishonesty, incompetence, or gross mismanagement. If the debtor is removed, the trustee takes over business operations. This is rare.
 
 Trustee Compensation
 
 The Subchapter V trustee is compensated from the estate. In consensual cases, the trustee's service typically ends at confirmation, limiting costs. In cramdown cases, the trustee may serve for the full plan period (3-5 years), collecting a percentage of distributions.
 
-The trustee's fees are subject to court approval and must be reasonable. This cost is one of the trade-offs of Subchapter V -- the debtor gains a facilitator but must pay for that service.
+The trustee's fees are subject to court approval and must be reasonable. This cost is one of the trade-offs of Subchapter V - the debtor gains a facilitator but must pay for that service.
 
 Related: Subchapter V vs. traditional Chapter 11 | Cramdown requirements
 
@@ -1411,9 +1426,9 @@ Subscribe
 
 Related Resources
 
-section1191.org -- Plan confirmation
+section1191.org - Plan confirmation
 
-meanstest.org -- Means test calculator
+meanstest.org - Means test calculator
 
 Related Guides
 
@@ -1430,10 +1445,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1530,7 +1545,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Subchapter V vs Traditional Chapter 11 -- Comparison
+## Subchapter V vs Traditional Chapter 11 - Comparison
 Source: https://section1192.org/vs-traditional-11.html
 
 Skip to main content
@@ -1551,13 +1566,15 @@ Subchapter V vs. Traditional Chapter 11
 
 A side-by-side comparison of the streamlined Subchapter V process and traditional Chapter 11 reorganization.
 
+Home›Section 1192 Cramdown›Subchapter V vs. Traditional Chapter 11
+
 Side-by-Side Comparison
 
 FeatureTraditional Ch. 11Subchapter V
 
 Disclosure statementRequired (costly, time-consuming)Not required
 
-Absolute priority ruleApplies -- debtor may lose equityDoes not apply -- debtor retains equity
+Absolute priority ruleApplies - debtor may lose equityDoes not apply - debtor retains equity
 
 Creditor committeePresumptively appointedNot appointed (unless court orders)
 
@@ -1569,9 +1586,9 @@ UST quarterly feesRequired (can be substantial)Eliminated
 
 TrusteeNone (debtor in possession)Subchapter V trustee (facilitator)
 
-Typical cost$50,000 -- $250,000+$15,000 -- $50,000
+Typical cost$50,000 - $250,000+$15,000 - $50,000
 
-Typical duration12 -- 36 months3 -- 6 months to confirmation
+Typical duration12 - 36 months3 - 6 months to confirmation
 
 Discharge (consensual)Upon confirmationUpon confirmation
 
@@ -1579,15 +1596,15 @@ Discharge (cramdown)Upon confirmationAfter plan completion (3-5 years)
 
 Cost Savings
 
-The most significant advantage of Subchapter V is cost. Traditional Chapter 11 is notoriously expensive for small businesses. The disclosure statement alone -- which requires court approval before creditors can vote -- typically costs $10,000 to $30,000 in legal fees and adds 2-4 months to the process.
+The most significant advantage of Subchapter V is cost. Traditional Chapter 11 is notoriously expensive for small businesses. The disclosure statement alone - which requires court approval before creditors can vote - typically costs $10,000 to $30,000 in legal fees and adds 2-4 months to the process.
 
 By eliminating the disclosure statement, the creditor committee, and quarterly UST fees, Subchapter V dramatically reduces the overhead that historically made Chapter 11 impractical for businesses with less than $1 million in debt.
 
-Before the SBRA (2019): Most small businesses that filed Chapter 11 failed -- not because the business was unviable, but because the costs of the reorganization process consumed the resources needed for recovery. Subchapter V was Congress's response to this problem.
+Before the SBRA (2019): Most small businesses that filed Chapter 11 failed - not because the business was unviable, but because the costs of the reorganization process consumed the resources needed for recovery. Subchapter V was Congress's response to this problem.
 
 Speed
 
-Subchapter V imposes a 90-day plan deadline. The debtor must file a plan within 90 days of the order for relief (extendable for cause). In traditional Chapter 11, the debtor has a 120-day exclusivity period followed by open filing -- a process that routinely takes 12 to 36 months.
+Subchapter V imposes a 90-day plan deadline. The debtor must file a plan within 90 days of the order for relief (extendable for cause). In traditional Chapter 11, the debtor has a 120-day exclusivity period followed by open filing - a process that routinely takes 12 to 36 months.
 
 The compressed timeline benefits everyone: the debtor resolves uncertainty faster, creditors know the outcome sooner, and the court can close the case in months rather than years.
 
@@ -1595,13 +1612,13 @@ When Traditional Chapter 11 Is Better
 
 Subchapter V is not always the right choice. Traditional Chapter 11 may be preferable when:
 
-Debts exceed $7.5 million -- the debtor does not qualify for Subchapter V
+Debts exceed $7.5 million - the debtor does not qualify for Subchapter V
 
 Complex multi-party disputes require a creditor committee to negotiate
 
 The debtor wants to sell substantially all assets under Section 363
 
-Cramdown discharge scope matters -- in traditional Ch. 11, the cramdown discharge is broader (Section 523(a) exceptions do not apply)
+Cramdown discharge scope matters - in traditional Ch. 11, the cramdown discharge is broader (Section 523(a) exceptions do not apply)
 
 For most small businesses, Subchapter V is the better option. The streamlined process, lower costs, and elimination of the absolute priority rule make reorganization feasible for businesses that would have been forced to liquidate under the old system.
 
@@ -1613,9 +1630,9 @@ Subscribe
 
 Related Resources
 
-section1191.org -- Plan confirmation
+section1191.org - Plan confirmation
 
-meanstest.org -- Means test calculator
+meanstest.org - Means test calculator
 
 Related Guides
 
@@ -1632,10 +1649,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1729,3 +1746,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - section1192.org
+Source: https://section1192.org/privacy.html
+
+section1192.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
