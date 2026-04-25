@@ -17,22 +17,22 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Disposable Income in Subchapter V - Section 1191(c)(2)</title>
-<meta content="Learn about disposable income in subchapter v - section 1191(c)(2) | section1192.org in our free 2026 guide." name="description"/>
-<meta content="disposable income, subchapter v, section 1191(c)(2), business expenses, projected income, calculation" name="keywords"/>
-<link href="https://section1192.org/disposable-income.html" rel="canonical"/>
-<link href="https://section1192.org/disposable-income.html" hreflang="en" rel="alternate"/>
+<title>Subchapter V Cramdown - Section 1191(b) Nonconsensual Confirmation</title>
+<meta content="Learn about subchapter v cramdown - section 1191(b) nonconsensual confirmation | section1192.org in our free 2026 guide." name="description"/>
+<meta content="section 1191(b), cramdown, nonconsensual, projected disposable income, fair and equitable, subchapter v" name="keywords"/>
+<link href="https://section1192.org/cramdown.html" rel="canonical"/>
+<link href="https://section1192.org/cramdown.html" hreflang="en" rel="alternate"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-28" name="last-modified"/>
-<meta content="Disposable Income in Subchapter V - Section 1191(c)(2)" property="og:title"/>
-<meta content="Learn about disposable income in subchapter v - section 1191(c)(2) | section1192.org in our free 2026 guide." property="og:description"/>
+<meta content="Subchapter V Cramdown - Section 1191(b) Nonconsensual Confirmation" property="og:title"/>
+<meta content="Learn about subchapter v cramdown - section 1191(b) nonconsensual confirmation | section1192.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://section1192.org/disposable-income.html" property="og:url"/>
+<meta content="https://section1192.org/cramdown.html" property="og:url"/>
 <meta content="section1192.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Disposable Income in Subchapter V - Section 1191(c)(2)" name="twitter:title"/>
-<meta content="Learn about disposable income in subchapter v - section 1191(c)(2) | section1192.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Subchapter V Cramdown - Section 1191(b) Nonconsensual Confirmation" name="twitter:title"/>
+<meta content="Learn about subchapter v cramdown - section 1191(b) nonconsensual confirmation | section1192.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://section1192.org/og-image.svg" property="og:image"/>
 <meta content="https://section1192.org/og-image.svg" name="twitter:image"/>
 <script type="application/ld+json">
@@ -49,12 +49,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "How is disposable income calculated in Subchapter V?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Start with projected gross income, subtract amounts reasonably necessary for maintenance/support of the debtor and dependents, domestic support obligations, and business operating expenses."}},
-    {"@type": "Question", "name": "Does the means test apply?",
-     "acceptedAnswer": {"@type": "Answer", "text": "No. Subchapter V uses actual projected income and reasonable expenses, not the IRS-based means test formula used in Chapter 13."}},
-    {"@type": "Question", "name": "What business expenses are deductible?",
-     "acceptedAnswer": {"@type": "Answer", "text": "All expenses reasonably necessary for the continuation, preservation, or operation of the business - including rent, payroll, supplies, insurance, and reasonable owner compensation."}}
+    {"@type": "Question", "name": "What are the requirements for cramdown?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The plan must commit all projected disposable income for 3-5 years, must not discriminate unfairly, and must be fair and equitable to each dissenting class."}},
+    {"@type": "Question", "name": "How is disposable income calculated?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Income less amounts reasonably necessary for maintenance/support of the debtor and dependents, and for operation of the business. Unlike Chapter 13, the means test formula does not apply."}},
+    {"@type": "Question", "name": "What is the fair and equitable test?",
+     "acceptedAnswer": {"@type": "Answer", "text": "For secured claims: retain lien and pay present value of allowed secured claim. For unsecured claims: commit all projected disposable income. The absolute priority rule does not apply."}}
   ]
 }
 </script>
@@ -64,8 +64,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Projected Disposable Income - Section 1191(c)(2)",
-      "description": "How to calculate projected disposable income for Subchapter V cramdown. Business vs personal expenses, and how it differs from Chapter 13.",
+      "headline": "Subchapter V Cramdown - Section 1191(b)",
+      "description": "Cramdown in Subchapter V under Section 1191(b). Projected disposable income, the fair and equitable test, and how cramdown differs from Chapter 13.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -77,7 +77,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://section1192.org/disposable-income.html"
+      "mainEntityOfPage": "https://section1192.org/cramdown.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -97,15 +97,15 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Projected Disposable Income - Section 1191(c)(2)",
-          "item": "https://section1192.org/disposable-income.html"
+          "name": "Subchapter V Cramdown - Section 1191(b)",
+          "item": "https://section1192.org/cramdown.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Projected Disposable Income - Section 1191(c)(2)",
-      "url": "https://section1192.org/disposable-income.html",
+      "name": "Subchapter V Cramdown - Section 1191(b)",
+      "url": "https://section1192.org/cramdown.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -170,28 +170,7 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://section1192.org/disposable-income-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://section1192.org/cramdown-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -203,70 +182,59 @@
 <a href="/vs-traditional-11.html">vs Traditional 11</a>
 <a href="/eligibility.html">Eligibility</a>
 <a href="/trustee-role.html">Trustee Role</a>
-<a href="/cramdown.html">Cramdown</a>
-<a class="active" href="/disposable-income.html">Disposable Income</a>
+<a class="active" href="/cramdown.html">Cramdown</a>
+<a href="/disposable-income.html">Disposable Income</a>
 <a href="/discharge-timing.html">Discharge</a>
 <a href="/success-rates.html">Success Rates</a>
 </div>
 </nav>
 <header>
-<h1>Projected Disposable Income - Section 1191(c)(2)</h1>
-<p class="subtitle">How to calculate projected disposable income for Subchapter V cramdown. A critical requirement for nonconsensual confirmation.</p>
+<h1>Subchapter V Cramdown - <a href="https://www.law.cornell.edu/uscode/text/11/1191#b_0" rel="noopener" target="_blank">Section 1191(b)</a></h1>
+<p class="subtitle">Nonconsensual plan confirmation when impaired classes reject. The projected disposable income test and fair and equitable standard.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://section1192.org">Section 1192 Cramdown</a><span class="separator">›</span><span>Projected Disposable Income - Section 1191(c)(2)</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://section1192.org">Section 1192 Cramdown</a><span class="separator">›</span><span>Subchapter V Cramdown - Section 1191(b)</span></nav>
 <div class="content-section">
-<h2>The Calculation</h2>
-<p>Projected disposable income under <a href="https://section1191.org" rel="noopener" target="_blank" title="Section 1191 Plan Confirmation - Open Bankruptcy Project">Section 1191</a>(c)(2) is calculated as:</p>
-<div class="statute-box">
-<p><strong>Projected Gross Income</strong></p>
-<p>minus: Amounts reasonably necessary for maintenance or support</p>
-<p>minus: Domestic support obligations</p>
-<p>minus: Business operating expenses</p>
-<p>= <strong>Projected Disposable Income</strong></p>
-</div>
-<p>This amount must be committed to plan payments for the 3-to-5-year plan period.</p>
+<h2>When Cramdown Is Needed</h2>
+<p>If any impaired class of claims fails to accept the plan, consensual confirmation under <a href="https://section1191.org" rel="noopener" target="_blank" title="Section 1191 Plan Confirmation - Open Bankruptcy Project">Section 1191</a>(a) is unavailable. The debtor must satisfy the more demanding requirements of <strong>Section 1191(b)</strong> to confirm the plan over objection.</p>
+<p>Cramdown is the backstop that ensures a viable business can reorganize even when some creditors object. Without it, a single hostile creditor could block a plan that benefits everyone else.</p>
 </div>
 <div class="content-section">
-<h2>Business Expenses</h2>
-<p>One of the key advantages of <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> is the full recognition of business expenses. Deductible expenses include:</p>
+<h2>The Projected Disposable Income Requirement</h2>
+<p>Under <a href="https://section1191.org" rel="noopener" target="_blank" title="Section 1191 Plan Confirmation - Open Bankruptcy Project">Section 1191</a>(c)(2), the plan must provide that all of the debtor's <strong>projected disposable income</strong> received during the applicable commitment period (3-5 years) will be applied to make payments under the plan.</p>
+<p>"Projected disposable income" is defined as income <strong>not reasonably necessary</strong> for:</p>
 <ul>
-<li><strong>Rent and occupancy costs</strong></li>
-<li><strong>Employee wages and benefits</strong></li>
-<li><strong>Inventory and supplies</strong></li>
-<li><strong>Insurance (business and health)</strong></li>
-<li><strong>Vehicle and equipment costs</strong></li>
-<li><strong>Professional fees</strong> (accounting, legal, industry-specific)</li>
-<li><strong>Reasonable owner compensation</strong> - the debtor can pay themselves a market-rate salary</li>
+<li>Maintenance or support of the debtor or a dependent</li>
+<li>Payment of domestic support obligations</li>
+<li>Expenditures necessary for continuation, preservation, or operation of the business</li>
 </ul>
-<div class="yellow-box"><p><strong>Key word: reasonable.</strong> Courts will scrutinize expenses that appear inflated to reduce disposable income. Owner compensation must be comparable to market rates for similar work.</p></div>
+<div class="statute-box"><p><strong>No <a href="https://meanstest.org/" title="means test">means test</a>:</strong> Unlike <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> does not use the mechanical IRS expense standards. Courts examine actual income projections and actual reasonable expenses. This gives courts flexibility to account for the realities of running a business.</p></div>
 </div>
 <div class="content-section">
-<h2>Personal Expenses</h2>
-<p>For individual debtors, personal expenses that are "reasonably necessary for maintenance or support" are also deductible. These include:</p>
+<h2>The Fair and Equitable Standard</h2>
+<h3>Secured Claims</h3>
+<p>For each dissenting class of secured claims, the plan must provide that:</p>
 <ul>
-<li>Housing costs (rent or mortgage)</li>
-<li>Food and clothing</li>
-<li>Transportation</li>
-<li>Health care</li>
-<li>Insurance</li>
-<li>Child care</li>
-<li>Education expenses for dependents</li>
+<li>The creditor retains its lien</li>
+<li>The debtor makes deferred cash payments totaling at least the present value of the allowed secured claim</li>
 </ul>
-<p>Unlike <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, where many of these expenses are capped by IRS standard allowances, <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> uses actual reasonable amounts. A debtor in an expensive housing market can claim actual housing costs rather than being limited to a national standard.</p>
+<h3>Unsecured Claims</h3>
+<p>The absolute priority rule does not apply. The plan need only commit all projected disposable income. The debtor retains equity interest in the business.</p>
+<h3>No Unfair Discrimination</h3>
+<p>The plan must not discriminate unfairly among classes of similar priority. Some differential treatment is permitted if there is a reasonable basis for it.</p>
 </div>
 <div class="content-section">
-<h2>Projecting Future Income</h2>
-<p>The income figure used is <strong>projected</strong> income - not historical income. Courts look forward, considering:</p>
-<ul>
-<li>Historical business performance (as a baseline)</li>
-<li>Current trends and contracts</li>
-<li>Seasonal variations</li>
-<li>Planned changes to the business (expansion, contraction, new services)</li>
-<li>Economic conditions affecting the industry</li>
-</ul>
-<p>The debtor bears the burden of providing credible projections. Unrealistically low income projections will be rejected by the court. Conversely, overly optimistic projections may set the debtor up for failure to make plan payments.</p>
-<p>See also: <a href="/cramdown.html">Cramdown requirements</a> | <a href="https://meanstest.org">Means test comparison</a></p>
+<h2>Cramdown vs. Chapter 13 Comparison</h2>
+<table>
+<tr><th scope="col">Feature</th><th scope="col"><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></th><th scope="col"><a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> Cramdown</th></tr>
+<tr><td>Income test</td><td><a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">Means test</a> formula</td><td>Actual projected income</td></tr>
+<tr><td>Expense standards</td><td>IRS allowances</td><td>Reasonable actual expenses</td></tr>
+<tr><td>Commitment period</td><td>3 or 5 years (based on median)</td><td>3-5 years (flexible)</td></tr>
+<tr><td>Debt limit</td><td>~$2.75M (combined)</td><td>$7.5M</td></tr>
+<tr><td>Business expenses</td><td>Limited recognition</td><td>Full recognition</td></tr>
+<tr><td>Absolute priority</td><td>N/A</td><td>Does not apply</td></tr>
+</table>
+<p>See also: <a href="/disposable-income.html">Calculating disposable income</a> | <a href="/discharge-timing.html">Discharge timing</a></p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -279,8 +247,8 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1191.org" style="color:#58a6ff">section1191.org - Plan confirmation</a></p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org - Means test for Chapter 13</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1191.org/cramdown.html" style="color:#58a6ff">section1191.org/cramdown.html - Section 1191(b) overview</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org - Means test comparison</a></p>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -349,8 +317,8 @@
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
-<p>A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://automaticstay.org?utm_source=section1192.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>

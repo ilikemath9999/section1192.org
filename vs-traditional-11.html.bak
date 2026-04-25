@@ -17,22 +17,22 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Disposable Income in Subchapter V - Section 1191(c)(2)</title>
-<meta content="Learn about disposable income in subchapter v - section 1191(c)(2) | section1192.org in our free 2026 guide." name="description"/>
-<meta content="disposable income, subchapter v, section 1191(c)(2), business expenses, projected income, calculation" name="keywords"/>
-<link href="https://section1192.org/disposable-income.html" rel="canonical"/>
-<link href="https://section1192.org/disposable-income.html" hreflang="en" rel="alternate"/>
+<title>Subchapter V vs Traditional Chapter 11 - Comparison</title>
+<meta content="Learn about subchapter v vs traditional chapter 11 - comparison | section1192.org in our free 2026 guide." name="description"/>
+<meta content="subchapter v vs chapter 11, traditional chapter 11, comparison, SBRA, small business bankruptcy, cost" name="keywords"/>
+<link href="https://section1192.org/vs-traditional-11.html" rel="canonical"/>
+<link href="https://section1192.org/vs-traditional-11.html" hreflang="en" rel="alternate"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-28" name="last-modified"/>
-<meta content="Disposable Income in Subchapter V - Section 1191(c)(2)" property="og:title"/>
-<meta content="Learn about disposable income in subchapter v - section 1191(c)(2) | section1192.org in our free 2026 guide." property="og:description"/>
+<meta content="Subchapter V vs Traditional Chapter 11 - Comparison" property="og:title"/>
+<meta content="Learn about subchapter v vs traditional chapter 11 - comparison | section1192.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://section1192.org/disposable-income.html" property="og:url"/>
+<meta content="https://section1192.org/vs-traditional-11.html" property="og:url"/>
 <meta content="section1192.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Disposable Income in Subchapter V - Section 1191(c)(2)" name="twitter:title"/>
-<meta content="Learn about disposable income in subchapter v - section 1191(c)(2) | section1192.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Subchapter V vs Traditional Chapter 11 - Comparison" name="twitter:title"/>
+<meta content="Learn about subchapter v vs traditional chapter 11 - comparison | section1192.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://section1192.org/og-image.svg" property="og:image"/>
 <meta content="https://section1192.org/og-image.svg" name="twitter:image"/>
 <script type="application/ld+json">
@@ -49,12 +49,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "How is disposable income calculated in Subchapter V?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Start with projected gross income, subtract amounts reasonably necessary for maintenance/support of the debtor and dependents, domestic support obligations, and business operating expenses."}},
-    {"@type": "Question", "name": "Does the means test apply?",
-     "acceptedAnswer": {"@type": "Answer", "text": "No. Subchapter V uses actual projected income and reasonable expenses, not the IRS-based means test formula used in Chapter 13."}},
-    {"@type": "Question", "name": "What business expenses are deductible?",
-     "acceptedAnswer": {"@type": "Answer", "text": "All expenses reasonably necessary for the continuation, preservation, or operation of the business - including rent, payroll, supplies, insurance, and reasonable owner compensation."}}
+    {"@type": "Question", "name": "How is Subchapter V different from regular Chapter 11?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Subchapter V eliminates the disclosure statement requirement, the absolute priority rule, the creditor committee, and quarterly U.S. Trustee fees. It adds a trustee who facilitates (not liquidates) and imposes a 90-day plan deadline."}},
+    {"@type": "Question", "name": "Is Subchapter V less expensive?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Significantly. Average professional fees in traditional Chapter 11 range from $50,000 to $250,000+ for small businesses. Subchapter V typically costs $15,000 to $50,000 because of the streamlined process."}},
+    {"@type": "Question", "name": "Can any business use Subchapter V?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Only those with aggregate debts not exceeding $7,500,000, at least 50% from business activities."}}
   ]
 }
 </script>
@@ -64,8 +64,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Projected Disposable Income - Section 1191(c)(2)",
-      "description": "How to calculate projected disposable income for Subchapter V cramdown. Business vs personal expenses, and how it differs from Chapter 13.",
+      "headline": "Subchapter V vs. Traditional Chapter 11",
+      "description": "Side-by-side comparison of Subchapter V and traditional Chapter 11. Cost, time, complexity, disclosure, and creditor committees.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -77,7 +77,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://section1192.org/disposable-income.html"
+      "mainEntityOfPage": "https://section1192.org/vs-traditional-11.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -97,15 +97,15 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Projected Disposable Income - Section 1191(c)(2)",
-          "item": "https://section1192.org/disposable-income.html"
+          "name": "Subchapter V vs. Traditional Chapter 11",
+          "item": "https://section1192.org/vs-traditional-11.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Projected Disposable Income - Section 1191(c)(2)",
-      "url": "https://section1192.org/disposable-income.html",
+      "name": "Subchapter V vs. Traditional Chapter 11",
+      "url": "https://section1192.org/vs-traditional-11.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -170,28 +170,7 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://section1192.org/disposable-income-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://section1192.org/vs-traditional-11-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -200,73 +179,59 @@
 <button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
 <div class="nav-links">
 <a href="/">Home</a>
-<a href="/vs-traditional-11.html">vs Traditional 11</a>
+<a class="active" href="/vs-traditional-11.html">vs Traditional 11</a>
 <a href="/eligibility.html">Eligibility</a>
 <a href="/trustee-role.html">Trustee Role</a>
 <a href="/cramdown.html">Cramdown</a>
-<a class="active" href="/disposable-income.html">Disposable Income</a>
+<a href="/disposable-income.html">Disposable Income</a>
 <a href="/discharge-timing.html">Discharge</a>
 <a href="/success-rates.html">Success Rates</a>
 </div>
 </nav>
 <header>
-<h1>Projected Disposable Income - Section 1191(c)(2)</h1>
-<p class="subtitle">How to calculate projected disposable income for Subchapter V cramdown. A critical requirement for nonconsensual confirmation.</p>
+<h1>Subchapter V vs. Traditional Chapter 11</h1>
+<p class="subtitle">A side-by-side comparison of the streamlined Subchapter V process and traditional Chapter 11 reorganization.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://section1192.org">Section 1192 Cramdown</a><span class="separator">›</span><span>Projected Disposable Income - Section 1191(c)(2)</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://section1192.org">Section 1192 Cramdown</a><span class="separator">›</span><span>Subchapter V vs. Traditional Chapter 11</span></nav>
 <div class="content-section">
-<h2>The Calculation</h2>
-<p>Projected disposable income under <a href="https://section1191.org" rel="noopener" target="_blank" title="Section 1191 Plan Confirmation - Open Bankruptcy Project">Section 1191</a>(c)(2) is calculated as:</p>
-<div class="statute-box">
-<p><strong>Projected Gross Income</strong></p>
-<p>minus: Amounts reasonably necessary for maintenance or support</p>
-<p>minus: Domestic support obligations</p>
-<p>minus: Business operating expenses</p>
-<p>= <strong>Projected Disposable Income</strong></p>
-</div>
-<p>This amount must be committed to plan payments for the 3-to-5-year plan period.</p>
+<h2>Side-by-Side Comparison</h2>
+<table>
+<tr><th scope="col">Feature</th><th scope="col">Traditional Ch. 11</th><th scope="col"><a href="https://section1191.org/" title="Subchapter V">Subchapter V</a></th></tr>
+<tr><td>Disclosure statement</td><td>Required (costly, time-consuming)</td><td>Not required</td></tr>
+<tr><td>Absolute priority rule</td><td>Applies - debtor may lose equity</td><td>Does not apply - debtor retains equity</td></tr>
+<tr><td>Creditor committee</td><td>Presumptively appointed</td><td>Not appointed (unless court orders)</td></tr>
+<tr><td>Plan deadline</td><td>120-day exclusivity, then open</td><td>90 days after order for relief</td></tr>
+<tr><td>Who can file a plan</td><td>Debtor, then creditors</td><td>Only the debtor</td></tr>
+<tr><td>UST quarterly fees</td><td>Required (can be substantial)</td><td>Eliminated</td></tr>
+<tr><td>Trustee</td><td>None (<a href="https://section1191.org/" title="debtor in possession">debtor in possession</a>)</td><td>Subchapter V trustee (facilitator)</td></tr>
+<tr><td>Typical cost</td><td>$50,000 - $250,000+</td><td>$15,000 - $50,000</td></tr>
+<tr><td>Typical duration</td><td>12 - 36 months</td><td>3 - 6 months to confirmation</td></tr>
+<tr><td><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> (consensual)</td><td>Upon confirmation</td><td>Upon confirmation</td></tr>
+<tr><td><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> (cramdown)</td><td>Upon confirmation</td><td>After plan completion (3-5 years)</td></tr>
+</table>
 </div>
 <div class="content-section">
-<h2>Business Expenses</h2>
-<p>One of the key advantages of <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> is the full recognition of business expenses. Deductible expenses include:</p>
+<h2>Cost Savings</h2>
+<p>The most significant advantage of Subchapter V is cost. Traditional Chapter 11 is notoriously expensive for small businesses. The disclosure statement alone - which requires court approval before creditors can vote - typically costs $10,000 to $30,000 in legal fees and adds 2-4 months to the process.</p>
+<p>By eliminating the disclosure statement, the creditor committee, and quarterly UST fees, Subchapter V dramatically reduces the overhead that historically made Chapter 11 impractical for businesses with less than $1 million in debt.</p>
+<div class="green-box"><p><strong>Before the SBRA (2019):</strong> Most small businesses that filed Chapter 11 failed - not because the business was unviable, but because the costs of the reorganization process consumed the resources needed for recovery. Subchapter V was Congress's response to this problem.</p></div>
+</div>
+<div class="content-section">
+<h2>Speed</h2>
+<p>Subchapter V imposes a <strong>90-day plan deadline</strong>. The debtor must file a plan within 90 days of the order for relief (extendable for cause). In traditional Chapter 11, the debtor has a 120-day exclusivity period followed by open filing - a process that routinely takes 12 to 36 months.</p>
+<p>The compressed timeline benefits everyone: the debtor resolves uncertainty faster, creditors know the outcome sooner, and the court can close the case in months rather than years.</p>
+</div>
+<div class="content-section">
+<h2>When Traditional Chapter 11 Is Better</h2>
+<p>Subchapter V is not always the right choice. Traditional Chapter 11 may be preferable when:</p>
 <ul>
-<li><strong>Rent and occupancy costs</strong></li>
-<li><strong>Employee wages and benefits</strong></li>
-<li><strong>Inventory and supplies</strong></li>
-<li><strong>Insurance (business and health)</strong></li>
-<li><strong>Vehicle and equipment costs</strong></li>
-<li><strong>Professional fees</strong> (accounting, legal, industry-specific)</li>
-<li><strong>Reasonable owner compensation</strong> - the debtor can pay themselves a market-rate salary</li>
+<li><strong>Debts exceed $7.5 million</strong> - the debtor does not qualify for Subchapter V</li>
+<li><strong>Complex multi-party disputes</strong> require a creditor committee to negotiate</li>
+<li><strong>The debtor wants to sell substantially all assets</strong> under Section 363</li>
+<li><strong>Cramdown discharge scope matters</strong> - in traditional Ch. 11, the cramdown discharge is broader (<a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a) exceptions do not apply)</li>
 </ul>
-<div class="yellow-box"><p><strong>Key word: reasonable.</strong> Courts will scrutinize expenses that appear inflated to reduce disposable income. Owner compensation must be comparable to market rates for similar work.</p></div>
-</div>
-<div class="content-section">
-<h2>Personal Expenses</h2>
-<p>For individual debtors, personal expenses that are "reasonably necessary for maintenance or support" are also deductible. These include:</p>
-<ul>
-<li>Housing costs (rent or mortgage)</li>
-<li>Food and clothing</li>
-<li>Transportation</li>
-<li>Health care</li>
-<li>Insurance</li>
-<li>Child care</li>
-<li>Education expenses for dependents</li>
-</ul>
-<p>Unlike <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, where many of these expenses are capped by IRS standard allowances, <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> uses actual reasonable amounts. A debtor in an expensive housing market can claim actual housing costs rather than being limited to a national standard.</p>
-</div>
-<div class="content-section">
-<h2>Projecting Future Income</h2>
-<p>The income figure used is <strong>projected</strong> income - not historical income. Courts look forward, considering:</p>
-<ul>
-<li>Historical business performance (as a baseline)</li>
-<li>Current trends and contracts</li>
-<li>Seasonal variations</li>
-<li>Planned changes to the business (expansion, contraction, new services)</li>
-<li>Economic conditions affecting the industry</li>
-</ul>
-<p>The debtor bears the burden of providing credible projections. Unrealistically low income projections will be rejected by the court. Conversely, overly optimistic projections may set the debtor up for failure to make plan payments.</p>
-<p>See also: <a href="/cramdown.html">Cramdown requirements</a> | <a href="https://meanstest.org">Means test comparison</a></p>
+<p>For most small businesses, Subchapter V is the better option. The streamlined process, lower costs, and elimination of the absolute priority rule make reorganization feasible for businesses that would have been forced to liquidate under the old system.</p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -280,7 +245,7 @@
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
 <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1191.org" style="color:#58a6ff">section1191.org - Plan confirmation</a></p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org - Means test for Chapter 13</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org - Means test calculator</a></p>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -349,8 +314,8 @@
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
-<p>A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://automaticstay.org?utm_source=section1192.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
